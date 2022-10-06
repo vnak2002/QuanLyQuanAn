@@ -37,7 +37,7 @@ namespace QuanLyQuanAn
 
         bool Login(string userName, string passWord)
         {
-            int i = 1;
+            
             return true;
         }
 
