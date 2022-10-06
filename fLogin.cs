@@ -16,7 +16,7 @@ namespace QuanLyQuanAn
         {
             InitializeComponent();
         }
-
+        // Event cho nut dang nhap
         private void btnLogin_Click(object sender, EventArgs e)
         {
             string userName = txtUsername.Text;
@@ -40,7 +40,7 @@ namespace QuanLyQuanAn
             //Hello My name is Nguyen Hong Thai
             return true;
         }
-
+        // Day la event cho nut thoat
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
