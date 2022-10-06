@@ -37,7 +37,7 @@ namespace QuanLyQuanAn
 
         bool Login(string userName, string passWord)
         {
-            //iuhiyugh8ygf786
+            //Hello My name is Nguyen Hong Thai
             return true;
         }
 
