@@ -34,7 +34,7 @@ namespace QuanLyQuanAn
             }
             
         }
-
+        // Function Dang nhap
         bool Login(string userName, string passWord)
         {
             //Hello My name is Nguyen Hong Thai
